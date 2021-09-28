@@ -1,4 +1,4 @@
-package com.malainey.team9;
+package com.cmput301f21t09.team9;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.malainey.team9", appContext.getPackageName());
+        assertEquals("com.cmput301f21t09.team9", appContext.getPackageName());
     }
 }

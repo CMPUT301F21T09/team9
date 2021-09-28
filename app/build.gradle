@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.malainey.team9"
+        applicationId "com.cmput301f21t09.team9"
         minSdk 21
         targetSdk 31
         versionCode 1

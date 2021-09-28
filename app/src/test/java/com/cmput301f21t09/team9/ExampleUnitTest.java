@@ -1,4 +1,4 @@
-package com.malainey.team9;
+package com.cmput301f21t09.team9;
 
 import org.junit.Test;
 

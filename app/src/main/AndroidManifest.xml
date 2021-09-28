@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.malainey.team9">
+    package="com.cmput301f21t09.team9">
 
     <application
         android:allowBackup="true"
